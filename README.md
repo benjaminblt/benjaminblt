@@ -1,16 +1,194 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**benjaminblt/benjaminblt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Benjamin Baillet
 
-Here are some ideas to get you started:
+### Data Analyst • Data Engineering • Business Intelligence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Bordeaux, France
+
+Transformer des données complexes en analyses fiables,  
+des modèles compréhensibles et des outils utiles à la décision.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Benjamin_Baillet-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-baillet/)
+[![GitHub](https://img.shields.io/badge/GitHub-benjaminblt-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/benjaminblt)
+[![Email](https://img.shields.io/badge/Email-Me_contacter-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benjaminbaillet@icloud.com)
+
+</div>
+
+---
+
+## À propos
+
+Diplômé d’un **Master en Finance Quantitative & Actuariat** et d’une
+**Licence en Ingénierie Mathématique**, je développe des projets à
+l’intersection de la **Data Analysis, du Data Engineering, de la
+Business Intelligence et de la modélisation quantitative**.
+
+Lors de mon expérience de **Data Analyst chez Orange Pro PME**, j’ai
+travaillé sur les données de plus de **17 000 entreprises** et développé
+un pipeline Python automatisé de collecte, traitement, contrôle qualité,
+analyse et visualisation.
+
+J’aime particulièrement partir de données brutes, les structurer,
+contrôler leur qualité, les analyser puis transformer les résultats
+en informations réellement exploitables.
+
+---
+
+## Stack
+
+### Data & programmation
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+### Data Analysis & Machine Learning
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+### Business Intelligence
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Qlik](https://img.shields.io/badge/QlikView-009848?style=flat-square)
+
+### Data Engineering & outils
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+# Projets sélectionnés
+
+## Banque 360 — SQL Server & Power BI
+
+**Pipeline Data complet • Modélisation décisionnelle • Data Quality • Reporting**
+
+Projet personnel construit intégralement en autonomie à partir de
+**7 jeux de données fictifs et réalistes**.
+
+`RAW → STAGING → MART → REPORTING → POWER BI`
+
+- SQL Server sous Docker
+- nettoyage et transformation des données
+- contrôles qualité
+- modèle en étoile
+- dimensions et tables de faits
+- vues, contraintes et index
+- environ **45 mesures DAX**
+- dashboards clients, transactions, crédits, risques et agences
+- documentation complète du projet
+
+➡️ [Découvrir Banque 360](https://github.com/benjaminblt/Banque360_SQL_PowerBI)
+
+---
+
+## Scoring du risque de crédit
+
+**Python • Pandas • Scikit-learn • Machine Learning**
+
+Analyse de **252 131 clients**, construction d’une grille de score
+et comparaison de modèles de Machine Learning interprétables.
+
+➡️ [Voir le projet](https://github.com/benjaminblt/Prediction_Risque_Credit)
+
+---
+
+## Data Challenge — Caisse des Dépôts
+
+**Python • QGIS • K-Means • Risques climatiques**
+
+Analyse de quatre risques climatiques, scoring par commune,
+segmentation K-Means, cartographie et agrégation pondérée
+d’un portefeuille de **99 actifs**.
+
+➡️ [Voir le projet](https://github.com/benjaminblt/Data_Challenge_Caisse_des_Depots)
+
+---
+
+## Risque de marché — VaR, GARCH & Backtesting
+
+**Séries temporelles • Économétrie • Risque financier**
+
+Analyse économétrique des rendements financiers,
+modélisation de la volatilité et estimation de la Value at Risk.
+
+➡️ [Voir le projet](https://github.com/benjaminblt/Rendements_et_Value_At_Risk)
+
+---
+
+## Prédiction de sortie d'entreprise
+
+**Python • Classification • Machine Learning**
+
+Nettoyage de données comptables, régression logistique,
+k-NN, arbre de décision et comparaison des modèles par AUC.
+
+➡️ [Voir le projet](https://github.com/benjaminblt/Prediction_Sortie_Entreprise)
+
+---
+
+## Optimisation des échanges de reins
+
+**Python • Optimisation combinatoire • PLNE**
+
+Modélisation du Kidney Exchange Problem, génération de cycles
+par DFS et résolution par programmation linéaire en nombres entiers.
+
+➡️ [Voir le projet](https://github.com/benjaminblt/Probleme_Echange_De_Reins)
+
+---
+
+## Expérience
+
+### Data Analyst — Orange Pro PME
+
+- analyse et fiabilisation des données de **17 000+ entreprises**
+- pipeline Python automatisé
+- détection de **129 clients à risque**
+- anticipation de certaines situations jusqu’à **2 mois**
+- création de **10 cartographies interactives**
+- Python, R, Excel, QlikView et SharePoint
+- restitution aux équipes métier
+
+---
+
+## Formation
+
+**Master Ingénierie des Risques Économiques et Financiers**  
+Finance Quantitative & Actuariat — Université de Bordeaux
+
+**Licence Ingénierie Mathématique — Mention Bien**  
+Université de Bordeaux
+
+---
+
+## International
+
+Après mes études, j’ai consacré une année à une expérience internationale,
+notamment en Australie puis en Asie.
+
+Travail, bénévolat, environnements multiculturels et immersion en anglais
+ont renforcé mon **autonomie, mon adaptabilité et ma capacité à travailler
+avec des profils très différents**.
+
+**TOEIC : 830/990**, obtenu avant cette immersion internationale.
+
+---
+
+<div align="center">
+
+### Me contacter
+
+📍 Bordeaux  
+📧 [benjaminbaillet@icloud.com](mailto:benjaminbaillet@icloud.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/benjamin-baillet/)
+
+</div>
