@@ -13,18 +13,9 @@
 Transformer des données complexes en analyses fiables,  
 des modèles compréhensibles et des outils utiles à la décision.
 
-<a href="https://www.linkedin.com/in/benjamin-baillet/">
-  <img src="assets/linkedin-badge.svg" alt="LinkedIn" height="28">
-</a>
-
-<a href="https://github.com/benjaminblt">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="28">
-</a>
-
-<a href="mailto:benjaminbaillet@icloud.com">
-  <img src="https://img.shields.io/badge/Email-3693F3?style=for-the-badge&logo=icloud&logoColor=white" alt="Email" height="28">
-</a>
-
+[![LinkedIn](assets/linkedin-badge.svg)](https://www.linkedin.com/in/benjamin-baillet/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/benjaminblt)
+[![Email](https://img.shields.io/badge/-Email-3693F3?style=for-the-badge&logo=icloud&logoColor=white)](mailto:benjaminbaillet@icloud.com)
 
 </div>
 
@@ -50,30 +41,27 @@ en informations réellement exploitables.
 
 ## Stack
 
-### Data & programmation
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
 ### Data Analysis & Machine Learning
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
 ### Business Intelligence
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-217346?style=flat-square&logo=microsoftoffice&logoColor=white)
 ![Qlik](https://img.shields.io/badge/QlikView-009848?style=flat-square)
+![SharePoint](https://img.shields.io/badge/SharePoint-038387?style=flat-square&logo=microsoftsharepoint&logoColor=white)
 
 ### Data Engineering & outils
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
