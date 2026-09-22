@@ -4,8 +4,6 @@
 
 <div align="center">
 
-## Data Analyst • Data Engineering • Business Intelligence
-
 📍 Bordeaux, France
 
 Transformer des données complexes en analyses fiables,  
