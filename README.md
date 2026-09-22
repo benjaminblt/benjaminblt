@@ -4,8 +4,6 @@
 
 <div align="center">
 
-📍 Bordeaux, France
-
 Transformer des données complexes en analyses fiables,  
 des modèles compréhensibles et des outils utiles à la décision.
 
