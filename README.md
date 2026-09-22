@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# Benjamin Baillet
+## Benjamin Baillet
 
 ### Data Analyst • Data Engineering • Business Intelligence
 
