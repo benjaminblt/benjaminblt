@@ -4,9 +4,7 @@
 
 <div align="center">
 
-## Benjamin Baillet
-
-### Data Analyst • Data Engineering • Business Intelligence
+## Data Analyst • Data Engineering • Business Intelligence
 
 📍 Bordeaux, France
 
