@@ -58,6 +58,10 @@ en informations réellement exploitables.
 
 ## Banque 360 — SQL Server & Power BI
 
+<p align="center">
+  <img src="banque360.jpg" alt="Projet Banque 360 - SQL Server et Power BI" width="100%">
+</p>
+
 **Pipeline Data complet • Modélisation décisionnelle • Data Quality • Reporting**
 
 Projet personnel construit intégralement en autonomie à partir de
@@ -81,6 +85,10 @@ Projet personnel construit intégralement en autonomie à partir de
 
 ## Scoring du risque de crédit
 
+<p align="center">
+  <img src="scoring.jpg" alt="Projet Scoring du risque de crédit" width="100%">
+</p>
+
 **Python • Pandas • Scikit-learn • Machine Learning**
 
 Analyse de **252 131 clients**, construction d’une grille de score
@@ -91,6 +99,10 @@ et comparaison de modèles de Machine Learning interprétables.
 ---
 
 ## Data Challenge — Caisse des Dépôts
+
+<p align="center">
+  <img src="data_challenge.jpg" alt="Data Challenge Caisse des Dépôts - Risques climatiques" width="100%">
+</p>
 
 **Python • QGIS • K-Means • Risques climatiques**
 
@@ -104,6 +116,10 @@ d’un portefeuille de **99 actifs**.
 
 ## Risque de marché — VaR, GARCH & Backtesting
 
+<p align="center">
+  <img src="var.jpg" alt="Projet Risque de marché - VaR GARCH et Backtesting" width="100%">
+</p>
+
 **Séries temporelles • Économétrie • Risque financier**
 
 Analyse économétrique des rendements financiers,
@@ -115,6 +131,10 @@ modélisation de la volatilité et estimation de la Value at Risk.
 
 ## Prédiction de sortie d'entreprise
 
+<p align="center">
+  <img src="sortie_entreprises.jpg" alt="Projet Prédiction de sortie d'entreprise" width="100%">
+</p>
+
 **Python • Classification • Machine Learning**
 
 Nettoyage de données comptables, régression logistique,
@@ -125,6 +145,10 @@ k-NN, arbre de décision et comparaison des modèles par AUC.
 ---
 
 ## Optimisation des échanges de reins
+
+<p align="center">
+  <img src="reins.jpg" alt="Projet Optimisation des échanges de reins" width="100%">
+</p>
 
 **Python • Optimisation combinatoire • PLNE**
 
