@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner-benjamin-blt.png" alt="Benjamin Baillet - Data Analyst" width="100%">
+  <img src="assets/banner-benjamin-blt.png" alt="Benjamin Baillet - Data Analyst" width="100%">
 </p>
 
 <h1 align="center">Benjamin Baillet</h1>
@@ -104,7 +104,7 @@ Architecture RAW / STAGING / MART, nettoyage, transformations, contrôles qualit
 
 <p align="center">
   <a href="https://github.com/benjaminblt/Banque360_SQL_PowerBI">
-    <img src="banque360.jpg" alt="Banque 360 - SQL Server et Power BI" width="100%">
+    <img src="assets/banque360.jpg" alt="Banque 360 - SQL Server et Power BI" width="100%">
   </a>
 </p>
 
@@ -137,7 +137,7 @@ Le projet comprend notamment :
 
 <p align="center">
   <a href="https://github.com/benjaminblt/Prediction_Risque_Credit">
-    <img src="scoring.jpg" alt="Scoring du risque de crédit" width="100%">
+    <img src="assets/scoring.jpg" alt="Scoring du risque de crédit" width="100%">
   </a>
 </p>
 
@@ -157,7 +157,7 @@ Le projet met l’accent sur la préparation des variables, l’évaluation des 
 
 <p align="center">
   <a href="https://github.com/benjaminblt/Data_Challenge_Caisse_des_Depots">
-    <img src="data_challenge.jpg" alt="Data Challenge Caisse des Dépôts" width="100%">
+    <img src="assets/data_challenge.jpg" alt="Data Challenge Caisse des Dépôts" width="100%">
   </a>
 </p>
 
@@ -177,7 +177,7 @@ Le projet combine analyse quantitative et approche géographique afin de produir
 
 <p align="center">
   <a href="https://github.com/benjaminblt/Rendements_et_Value_At_Risk">
-    <img src="var.jpg" alt="Risque de marché - VaR GARCH et Backtesting" width="100%">
+    <img src="assets/var.jpg" alt="Risque de marché - VaR GARCH et Backtesting" width="100%">
   </a>
 </p>
 
@@ -197,7 +197,7 @@ Ce projet mobilise des outils directement issus de ma formation en **finance qua
 
 <p align="center">
   <a href="https://github.com/benjaminblt/Prediction_Sortie_Entreprise">
-    <img src="sortie_entreprises.jpg" alt="Prédiction de sortie d'entreprise" width="100%">
+    <img src="assets/sortie_entreprises.jpg" alt="Prédiction de sortie d'entreprise" width="100%">
   </a>
 </p>
 
@@ -217,7 +217,7 @@ Le projet porte autant sur la qualité de préparation des données que sur le c
 
 <p align="center">
   <a href="https://github.com/benjaminblt/Probleme_Echange_De_Reins">
-    <img src="reins.jpg" alt="Optimisation des échanges de reins" width="100%">
+    <img src="assets/reins.jpg" alt="Optimisation des échanges de reins" width="100%">
   </a>
 </p>
 
